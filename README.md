@@ -1,4 +1,4 @@
-<p align="center">
+
 
 <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">   This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a>
    
@@ -23,10 +23,11 @@
  
 
 
-
+<h2 align="center">
+   
 ![-Hello-penguins-of-madagascar-37800672-500-500](https://user-images.githubusercontent.com/59771760/150248011-e265e3fa-f20b-4ab6-ad92-823c510171e8.gif)
 
-</p>
+</h2>
 
 
 <!--
