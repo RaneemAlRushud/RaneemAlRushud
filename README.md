@@ -2,7 +2,15 @@
 
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" > 
  
->This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a>
+>This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a> <br>
+
+>  <img src="https://img.shields.io/twitter/follow/raneemalrashoud?label=%40raneemalrashoud&style=social">
+    
+
+> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59771760/150277447-fd05726b-4930-4212-9b7e-2b65d459b30c.gif) 
+    <br>
+    [![Raneem AlRashoud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)
+> <li> 📫 How to reach me: raneemalrashoud@gmail.com </li>
 
    <h2 align="center">
   <br>
@@ -12,18 +20,13 @@
    
   <a href="https://twitter.com/intent/follow?screen_name=raneemalrashoud&tw_p=followbutton">
  
-  <img src="https://img.shields.io/twitter/follow/raneemalrashoud?label=%40raneemalrashoud&style=social">
-    
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59771760/150277447-fd05726b-4930-4212-9b7e-2b65d459b30c.gif) 
-    <br>
-    [![Raneem AlRashoud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)
 
     
 </h2>
 
   
-   > <li> 📫 How to reach me: raneemalrashoud@gmail.com </li>
+
 
 
 <h2 align="center">
