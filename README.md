@@ -1,7 +1,9 @@
 
 
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" > 
->   This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a>
+ 
+>This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a>
+
    <h2 align="center">
   <br>
    <br>
@@ -17,7 +19,7 @@
     <br>
     [![Raneem AlRashoud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)
 
- <li> 📫 How to reach me: raneemalrashoud@gmail.com</li>
+> 📫 How to reach me: raneemalrashoud@gmail.com
     
 </h2>
 
