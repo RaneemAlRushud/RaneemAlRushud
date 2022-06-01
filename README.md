@@ -19,11 +19,11 @@
     <br>
     [![Raneem AlRashoud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)
 
-> 📫 How to reach me: raneemalrashoud@gmail.com
     
 </h2>
 
   
+   > <li> 📫 How to reach me: raneemalrashoud@gmail.com </li>
 
 
 <h2 align="center">
