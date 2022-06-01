@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">   This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a>
+<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">   This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a>
    
   <br>
    <br>
