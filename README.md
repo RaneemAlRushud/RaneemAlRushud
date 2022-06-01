@@ -1,16 +1,20 @@
 
 
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" > 
+ <p align="center">
  
 >This is Raneem AlRashoud | Software engineering student at <a href="https://www.https://ksu.edu.sa/"> #KSU </a> <br>
+>  [![Raneem AlRashoud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud) <br>
 
 >  <img src="https://img.shields.io/twitter/follow/raneemalrashoud?label=%40raneemalrashoud&style=social">
     
 
 > ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59771760/150277447-fd05726b-4930-4212-9b7e-2b65d459b30c.gif) 
     <br>
-    [![Raneem AlRashoud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)
+  
 > <li> 📫 How to reach me: raneemalrashoud@gmail.com </li>
+ 
+ </p>
 
    <h2 align="center">
   <br>
