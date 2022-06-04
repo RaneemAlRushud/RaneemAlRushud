@@ -24,10 +24,7 @@
       
    
   <a href="https://twitter.com/intent/follow?screen_name=raneemalrashoud&tw_p=followbutton">
- 
 
-
-    
 </h2>
 
   
