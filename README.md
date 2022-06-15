@@ -12,7 +12,6 @@
 
 >  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59771760/150277447-fd05726b-4930-4212-9b7e-2b65d459b30c.gif)
     <br> 
-
  </p>
 
    <h2 align="center">
