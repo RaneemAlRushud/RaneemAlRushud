@@ -6,7 +6,7 @@
 
  
 >This is Raneem AlRashoud | Software engineering student at        <a href="https://www.https://ksu.edu.sa/"> #KSU </a> 
->  [![Raneem AlRashoud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)  <br>
+>  [![Raneem AlRushud !](https://img.shields.io/badge/Raneem%20-AlRashoud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)  <br>
 
 > <img src="https://img.shields.io/twitter/follow/raneemalrushud?label=%40raneemalrushud&style=social"> <br>
  
