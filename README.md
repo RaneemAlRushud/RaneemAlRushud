@@ -12,7 +12,6 @@
 > Pronouns: (She/Her) 
 
 
-
 >    <br>
 > <img src="https://img.shields.io/twitter/follow/raneemalrushud?label=%40raneemalrushud&style=social"> <br>
  
