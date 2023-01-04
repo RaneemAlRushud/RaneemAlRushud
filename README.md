@@ -4,11 +4,9 @@
  
  <br>
  
->This is  [![Raneem AlRushud !](https://img.shields.io/badge/Raneem%20-AlRushud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)| Software engineering |        <a href="https://www.https://ksu.edu.sa/"> #KSU </a>  Alumna
->   <br>
+   <br>
 
-
->    <br>
+ 
 > <img src="https://img.shields.io/twitter/follow/raneemalrushud?label=%40raneemalrushud&style=social"> <br>
  
 > 📫 How to reach me: raneemalrashoud@gmail.com    
@@ -46,4 +44,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+>This is  [![Raneem AlRushud !](https://img.shields.io/badge/Raneem%20-AlRushud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)| Software engineering |        <a href="https://www.https://ksu.edu.sa/"> #KSU </a>  Alumna
 -->
