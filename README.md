@@ -1,9 +1,5 @@
-<!-- edit after --->
-
-<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" > 
- <p align="center">
- -->
- 
+  <p align="center">
+<img src="./banner.svg" alt="" /> </p>
 
  
  <br>
