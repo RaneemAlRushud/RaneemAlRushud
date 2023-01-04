@@ -6,10 +6,12 @@
  
    <br>
 
- 
-> <img src="https://img.shields.io/twitter/follow/raneemalrushud?label=%40raneemalrushud&style=social"> <br>
- 
-> <h4 align="left"> 📫 How to reach me:  </h4> raneemalrashoud@gmail.com   
+
+> <img src="https://img.shields.io/twitter/follow/raneemalrushud?label=%40raneemalrushud&style=social"> 
+
+
+
+> 📫 How to reach me: <br> <br> [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raneemalrashoud@gmail.com)
 
 >  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59771760/150277447-fd05726b-4930-4212-9b7e-2b65d459b30c.gif)
     <br> 
@@ -45,4 +47,6 @@
 
 
 >This is  [![Raneem AlRushud !](https://img.shields.io/badge/Raneem%20-AlRushud-1abc9c.svg)](https://www.linkedin.com/in/raneemalrashoud)| Software engineering |        <a href="https://www.https://ksu.edu.sa/"> #KSU </a>  Alumna
+
+> <h4 align="left"> 📫 How to reach me:  </h4> raneemalrashoud@gmail.com   
 -->
