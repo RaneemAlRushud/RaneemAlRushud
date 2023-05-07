@@ -1,4 +1,6 @@
- <p align="center">
+
+> 📌 02/04/2023 - xy/zh/202m; Contributing in a local network :)
+<p align="center">
 <img src="./banner.svg" alt="" />
 </p>
 
